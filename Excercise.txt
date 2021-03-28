@@ -1,0 +1,13 @@
+ if(excer>=30 && excer<=70)
+         {
+          System.out.println("Good job! You got in enough physical activity for today.");
+
+         }
+         if(med2 == false)
+         {
+         System.out.println("It is vital to take medicine on time. Make sure to log this in, so you physician can give feedback/advice on next steps");
+
+         }
+         else
+         {
+          System.out.println("Good Job! Keep up the good work.");
